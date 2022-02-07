@@ -1,0 +1,21 @@
+{
+  "env": {
+    "PORT": 3000,
+    "DB_PROTOCOL": "mongodb",
+    "DB_USERNAME": "",
+    "DB_PASSWORD": "",
+    "DB_URL": "",
+    "DB_PORT": 27017,
+    "DB_NAME": "",
+    "DB_CONNECT_MAX_RETRIES": 5,
+    "DB_CONNECT_RETRY_DELAY_IN_MS": 10000,
+    "LOG_DIR": "./logs",
+    "LOG_CONSOLE_LEVEL": "debug",
+    "LOG_FILE_LEVEL": "debug",
+    "LOG_FILE_STORAGE_DURATION": "31d",
+    "LOG_FILE_MAX_SIZE": "20m",
+    "JWT_SECRET": "",
+    "JWT_VALIDITY_DURATION": "30m",
+    "FAILED_LOGIN_MAX_ATTEMPTS": 10
+  }
+}
