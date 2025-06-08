@@ -12,7 +12,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
-  "author": "Gabriel Delhaye",
+  "author": "OoTsun",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
